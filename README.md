@@ -3,7 +3,7 @@
   <h1><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">WELCOME TO MY GITHUB<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 </div>
 
-### <div align="center"> 🚀 Senior Software Developer 🚀</div>  
+### <div align="center"> 🚀 Software Developer 🚀</div>  
 
 Bringing rich experience of experience leading website design projects,
 including gathering user requirements, producing code, creating mockups, and
