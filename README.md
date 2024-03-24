@@ -3,17 +3,14 @@
   <h1><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">WELCOME TO MY GITHUB<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 </div>
 
-### <div align="center"> 🚀 minionhub - Senior Software Developer 🚀</div>  
+### <div align="center"> 🚀 Senior Software Developer 🚀</div>  
 
-Bringing more than 12 years of experience leading website design projects,
+Bringing rich experience of experience leading website design projects,
 including gathering user requirements, producing code, creating mockups, and
 enhancing designs. Focused on creating clean, robust code with exceptional
 security. Achieves compatibility targets while meeting and exceeding customer
 demands.
 
-<br/>  
-Contact me <b>email</b>: minionhub.dev@gmail.com 
-<br/>
 <br/>
 <table><tr><td valign="top" width="50%">
   
@@ -59,19 +56,6 @@ Contact me <b>email</b>: minionhub.dev@gmail.com
 </td></tr></table>
 
 <table>
-<tr><td valign="top" width="100%"> 
-
-### DevOps 
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-</div>
-</td></tr>
-
 </table>
 <hr/>
 <p align="center">
